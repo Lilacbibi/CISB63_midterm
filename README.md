@@ -16,7 +16,7 @@ With these datasets, I used different NLP techniques to build two models and fin
 - Stress Prediction Module:
     - Cleaning and analyzing the Human Stress Prediction data.
     - Create a WordCloud of all the text in the data.
-    - Visualize Named Entities of a sample text Using spaCy.
+    - Visualize Named Entities of a sample text using spaCy.
     - Build pipelines to create two models for stress prediction using Count Vectorization, TF-IDF, Naive Bayes, and Logistic Regression.
     - Compare these models with accuracy, confusion matrix, and classification report.
 - Chatbot Module:
