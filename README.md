@@ -4,7 +4,7 @@ This is a midterm project for the course CISB63 in Mt.SAC.
 This project is aimed to build a chatbot who can make mental health conversation and also detect psychological stress based on the conversation.
 
 You can find the datasets here: <br>**Mental Health Conversational Data**:<br>(https://www.kaggle.com/datasets/elvis23/mental-health-conversational-data/data)
-<br>**Human Stress Prediction** (https://www.kaggle.com/datasets/cbf36c44e2c14007b6aedffc307e1f7f7c6d0b9e1e96c8895f36658842a6ece4)
+<br>**Human Stress Prediction**:<br>(https://www.kaggle.com/datasets/cbf36c44e2c14007b6aedffc307e1f7f7c6d0b9e1e96c8895f36658842a6ece4)
 
 With these datasets, I used different NLP techniques to build two models and finally use the models to build a chatbot. The main steps are as follows:
 
